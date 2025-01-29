@@ -1,0 +1,1 @@
+Built an ML model to predict weather conditions like min,max, avg temperature etc. using Kaggle and analysed and preprocessed the dataset using Pandas and SciKit-learn to identify the output features.
